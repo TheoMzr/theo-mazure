@@ -23,13 +23,13 @@ education:
   courses:
   - course: PhD in Environmental Sciences
     institution: INRAE & Savoie Mont-Blanc University
-    year: 2021-2024
+    year: 2021 - 2024
   - course: Master degree in Environmental Sciences
     institution: Rouen Normandy University
-    year: 2018-2021
+    year: 2018 - 2021
   - course: Bachelor degree in Earth Sciences
     institution: Rouen Normandy University
-    year: 2015-2018
+    year: 2015 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
