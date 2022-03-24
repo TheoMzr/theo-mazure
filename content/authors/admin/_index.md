@@ -23,6 +23,7 @@ interests:
 
 # Education to show in About widget
 education:
+courses:
   - course: PhD in Environmental Sciences
     institution: INRAE & Savoie Mont-Blanc University
     year: 2021-2024
