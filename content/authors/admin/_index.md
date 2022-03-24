@@ -15,7 +15,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Erosion spatial modeling
+- Spatial erosion modeling
 - Paleolimnology
 
 # Education to show in About widget
