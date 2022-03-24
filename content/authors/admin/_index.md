@@ -50,7 +50,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a PhD student in environmental sciences and geosciences at the CARRTEL laboratory (University of Savoie Mont-Blanc, France).
+I am a PhD student in environmental sciences and geosciences at the CARRTEL laboratory (University of Savoie Mont-Blanc, France).
 
 My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
 
