@@ -94,6 +94,9 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  icon:
+   pack:
+    ai: true
 
 # Extensions
 
