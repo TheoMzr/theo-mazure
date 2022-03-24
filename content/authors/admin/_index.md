@@ -16,6 +16,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Spatial erosion modeling
+- Lateral soil organic Carbon fluxes
 - Paleolimnology
 
 # Education to show in About widget
@@ -47,7 +48,7 @@ social:
   link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/Resume_Théo_Mazure.pdf.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -60,7 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in environmental sciences and geosciences at the CARRTEL laboratory (University of Savoie Mont-Blanc, France).
+PhD student in Environmental Sciences at the CARRTEL laboratory (Savoie Mont-Blanc University, France).
 
 My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
 
