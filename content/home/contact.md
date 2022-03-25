@@ -30,14 +30,12 @@ content:
   address:
     street: Campus Savoie Technolac
     city: Le Bourget-du-lac
-    region: Savoie
     postcode: '73376'
     country: France
-    country_code: FR
   coordinates:
     latitude: '45.65788'
     longitude: '5.86800'
-  directions: Building 8A, Second floor, Room 206
+  directions: Building 8A, Second floor, Office 206
 
 design:
   columns: '2'
