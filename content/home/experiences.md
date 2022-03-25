@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Intern
+    company: EDF
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    company_logo:
+    location: Grenoble, France
+    date_start: '2021-02-15'
+    date_end: '2021-08-13'
+    description: Erosion modeling and terrestrial fluxes forecast on the EDF HYDRO dams network - Cécile Martinet (EDF DTG)
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Intern
+    company: Le Havre Seine Métropole
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo:
+    location: Le Havre, France
+    date_start: '2019-04-08'
+    date_end: '2019-08-08'
+    description: Soil sealing and flood forecast modeling on Le Havre territory (Normandy, France) - Stéphane Chédeville (LHSM) and Nicolas Lecoq (UMR M2C CNRS URN)
+            
+  - title: Intern
+    company: CNEK
+    company_url: ''
+    company_logo:
+    location: Rouen, France
+    date_start: '2018-04-01'
+    date_end: '2018-06-01'
+    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Joël Rodet (CNEK) and Nicolas Lecoq (UMR M2C CNRS URN)
 
 design:
   columns: '2'
