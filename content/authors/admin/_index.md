@@ -47,16 +47,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/Resume_Théo_Mazure.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: static/uploads/Resume_Théo_Mazure.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
@@ -64,5 +54,3 @@ highlight_name: true
 PhD student in Environmental Sciences at the CARRTEL laboratory (Savoie Mont-Blanc University, France).
 
 My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Théo_Mazure.pdf" "newtab" >}}resumé{{< /staticref >}}.
