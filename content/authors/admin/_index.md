@@ -51,6 +51,6 @@ social:
 highlight_name: true
 ---
 
-PhD student in Environmental Sciences at the CARRTEL laboratory (Savoie Mont-Blanc University, France).
+PhD student in Environmental Sciences at the CARRTEL laboratory (INARE & Savoie Mont-Blanc University, France).
 
 My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
