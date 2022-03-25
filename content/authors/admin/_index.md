@@ -16,7 +16,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Spatial erosion modeling
-- Lateral soil organic Carbon fluxes
+- Soil carbon fluxes
 - Paleolimnology
 
 # Education to show in About widget
