@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: theo.mazure@inrae.fr
-  phone: 06 49 92 00 53
+  phone: (+33) 06 49 92 00 53
   address:
     street: Building 8A, Office 206, Campus Savoie Technolac, Le Bourget-du-lac, 73376, France
   coordinates:
