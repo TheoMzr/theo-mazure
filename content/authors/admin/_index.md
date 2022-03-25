@@ -65,4 +65,4 @@ PhD student in Environmental Sciences at the CARRTEL laboratory (Savoie Mont-Bla
 
 My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Théo_Mazure.pdf" "newtab" >}}resumé{{< /staticref >}}.
