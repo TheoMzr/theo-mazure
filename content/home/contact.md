@@ -28,7 +28,7 @@ content:
   email: theo.mazure@inrae.fr
   phone: 06 49 92 00 53
   address:
-    street: Campus Savoie Technolac Bât. Belledonne 206
+    street: Campus Savoie Technolac
     city: Le Bourget-du-lac
     region: Savoie
     postcode: '73376'
@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '45.65788'
     longitude: '5.86800'
-  directions: Floor 2
+  directions: Building 8A, Second floor, Room 206
 
 design:
   columns: '2'
