@@ -41,12 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Théo Mazure {year}. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© Théo Mazure {year}.
     
 # Localization
 
