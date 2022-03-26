@@ -21,9 +21,6 @@ organizations:
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
-    - course: PhD in Environmental Sciences
-      institution: INRAE & Savoie Mont-Blanc University
-      year: 2021 - 2024
     - course: Master degree in Environmental Sciences
       institution: Rouen Normandy University
       year: 2021
@@ -33,6 +30,6 @@ education:
 superuser: true
 highlight_name: true
 ---
-PhD student in Environmental Sciences at the CARRTEL laboratory under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE) and [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (EDYTEM)
+PhD student in Environmental Sciences at the CARRTEL laboratory (INRAE USMB) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE) and [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (EDYTEM).
 
 My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
