@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: theo.mazure@inrae.fr
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Theo-Mazure
