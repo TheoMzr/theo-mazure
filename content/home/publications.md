@@ -36,4 +36,6 @@ design:
   columns: '2'
 ---
 
-(./publication/)
+{{% callout note %}}
+ [Filtering publications](./publication/).
+{{% /callout %}}
