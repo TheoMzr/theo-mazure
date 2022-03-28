@@ -1,7 +1,7 @@
 ---
 title: Théo Mazure
 role: PhD Student
-avatar_filename: IMG_E3975.jpg
+avatar_filename: ""
 interests:
   - Spatial erosion modeling
   - Soil carbon fluxes
