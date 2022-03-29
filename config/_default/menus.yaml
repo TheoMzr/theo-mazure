@@ -18,7 +18,7 @@ main:
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/Resume_Théo_Mazure.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/uploads/Resume_Theo_Mazure.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/Resume_Théo_Mazure.pdf
+    url: uploads/Resume_Theo_Mazure.pdf
     weight: 50
