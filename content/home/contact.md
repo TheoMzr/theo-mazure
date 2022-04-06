@@ -21,7 +21,7 @@ content:
   address:
     street: Office 206, Building 8A, Campus Savoie Technolac
     postcode: 73376
-    city: Le Bourget-du-lac, France
+    city: Le Bourget-du-lac Cedex, France
   coordinates:
     latitude: '45.641785'
     longitude: '5.868029'
