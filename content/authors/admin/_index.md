@@ -32,4 +32,4 @@ highlight_name: true
 ---
 PhD student in Environmental Sciences at the [UMR 0042 CARRTEL INRAE USMB](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE) and [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (EDYTEM).
 
-My research interest is to study long-term large-scale erosion and carbon fluxes by coupling spatial models and paleolimnology.
+My research interest is to study long-term large-scale erosion and carbon fluxes around lake watersheds by coupling spatial models and paleolimnology approaches.
