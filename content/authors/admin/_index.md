@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Earth & Environment Sciences
       institution: INRAE & Savoie Mont-Blanc University
-      year: ongoing position
+      year: 2021 - 2024
     - course: Master degree in Earth & Environment Sciences
       institution: Rouen Normandy University
       year: 2021
