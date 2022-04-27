@@ -8,7 +8,7 @@ interests:
   - Paleolimnology
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: /#contact
   - icon: researchgate
     icon_pack: ai
