@@ -92,6 +92,9 @@ features:
   icon:
     pack:
       ai: true
+      fab: true
+      fas: true
+      far: true
 
 # Extensions
 
