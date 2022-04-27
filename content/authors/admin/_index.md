@@ -8,13 +8,13 @@ interests:
   - Paleolimnology
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fa
     link: /#contact
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Theo-Mazure
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: fa
     link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
 organizations:
   - name: UMR 0042 CARRTEL INRAE USMB
