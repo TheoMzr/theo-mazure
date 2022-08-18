@@ -33,6 +33,6 @@ education:
 superuser: true
 highlight_name: true
 ---
-PhD candidate in Environmental Sciences at the [UMR 0042 CARRTEL INRAE USMB](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE) and [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (EDYTEM).
+PhD candidate in Earth & Environmental Sciences at the [UMR 0042 CARRTEL INRAE USMB](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE) and [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (EDYTEM).
 
 My research project is to study long-term soil erosion and lateral carbon fluxes around lake watersheds by coupling spatial models and paleolimnology approaches.
