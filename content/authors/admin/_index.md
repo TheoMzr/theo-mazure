@@ -1,6 +1,6 @@
 ---
 title: Théo Mazure
-role: PhD Student
+role: PhD Candidate
 avatar_filename: ""
 interests:
   - Spatial erosion modeling
