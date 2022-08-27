@@ -34,9 +34,6 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
-  background:
-  color: 'navy'
-  text_color_light: true
 ---
 
 {{% callout note %}}
