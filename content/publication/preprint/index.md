@@ -1,13 +1,13 @@
 ---
 title: "Past and future climate change effects on thermal regime and oxygen solubility of four peri-alpine lakes"
-authors: 
-- Desgué-Itier, O; Jenny, J-P; Melo Vieira Soares, L; Sharaf, N; Anneville, O; Bouffard, D; Vinçon Leite, B; Chanudet, V; Danis, P-A; Domaizon, I; Mazure, T; Soulignac, F; Tran-Khac, V; Guillard, J1
+authors:
+- Desgué-Itier, O; Jenny, J-P; Melo Vieira Soares, L; Sharaf, N; Anneville, O; Bouffard, D; Vinçon Leite, B; Chanudet, V; Danis, P-A; Domaizon, I; Mazure, T; Soulignac, F; Tran-Khac, V; Guillard, J
 
 date: "2022-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-09T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,20 +30,20 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+  url: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -62,9 +62,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
