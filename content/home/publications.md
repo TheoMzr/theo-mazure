@@ -24,6 +24,9 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+  background:
+    color: '#666'
+    brightness: 0.7  
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
