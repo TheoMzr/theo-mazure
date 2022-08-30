@@ -16,7 +16,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
-  - icon: github\
+  - icon: github
     icon_pack: fab
     link: https://github.com/TheoMzr
 organizations:
