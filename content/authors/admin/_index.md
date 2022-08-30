@@ -16,6 +16,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/TheoMzr
 organizations:
   - name: UMR 0042 CARRTEL INRAE USMB
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
