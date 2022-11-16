@@ -24,13 +24,13 @@ organizations:
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
-    - course: PhD thesis in Earth & Environment Sciences
+    - course: PhD thesis in Earth & Environmental Sciences
       institution: INRAE & Savoie Mont-Blanc University
       year: 2021 - 2024
-    - course: Master degree in Earth & Environment Sciences
+    - course: Master degree in Earth & Environmental Sciences
       institution: Rouen Normandy University
       year: 2021
-    - course: Bachelor degree in Earth & Environment Sciences
+    - course: Bachelor degree in Earth & Environmental Sciences
       institution: Rouen Normandy University
       year: 2018
 superuser: true

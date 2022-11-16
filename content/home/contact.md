@@ -17,7 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: theo.mazure@inrae.fr
-  phone: (+33) 06 49 92 00 53
+  phone: +33 (0)6 49 92 00 53
   address:
     street: Office 206, Building 8A, Campus Savoie Technolac
     postcode: 73376
