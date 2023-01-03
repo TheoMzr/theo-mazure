@@ -1,5 +1,5 @@
 ---
-title: Théo Mazure
+title: Théo MAZURE
 role: PhD Candidate
 avatar_filename: ""
 interests:
