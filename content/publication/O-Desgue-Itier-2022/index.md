@@ -1,5 +1,6 @@
 ---
 title: "Past and future climate change effects on thermal regime and oxygen solubility of four peri-alpine lakes"
+
 authors:
 - Desgué-Itier, O; Jenny, J-P; Melo Vieira Soares, L; Sharaf, N; Anneville, O; Bouffard, D; Vinçon Leite, B; Chanudet, V; Danis, P-A; Domaizon, I; Mazure, T; Soulignac, F; Tran-Khac, V; Guillard, J
 
