@@ -5,7 +5,7 @@ authors:
 - Mazure, T; Saulnier, G-M; Mazier, F; Serge, M-A; Messager, E; Arnaud, F; Jenny, J-P
 
 date: "2022-12-01T00:00:00Z"
-doi: ""
+doi:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
