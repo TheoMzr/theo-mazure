@@ -2,7 +2,7 @@
 title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches"
 
 authors:
-- Desgué-Itier, O; Jenny, J-P; Melo Vieira Soares, L; Sharaf, N; Anneville, O; Bouffard, D; Vinçon Leite, B; Chanudet, V; Danis, P-A; Domaizon, I; Mazure, T; Soulignac, F; Tran-Khac, V; Guillard, J
+- Mazure, T; Saulnier, G-M; Mazier, F; Serge, M-A; Messager, E; Arnaud, F; Jenny, J-P
 
 date: "2022-06-03T00:00:00Z"
 doi: "https://doi.org/10.5194/egusphere-2022-260"
