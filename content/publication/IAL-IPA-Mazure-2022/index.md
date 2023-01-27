@@ -1,11 +1,11 @@
 ---
-title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches IAL-IPA Joint Meeting 2022 San Carlos de Bariloche Argentina November 27 - December 1 2022"
+title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches"
 
 authors:
 - Mazure, T; Saulnier, G-M; Mazier, F; Serge, M-A; Messager, E; Arnaud, F; Jenny, J-P
 
 date: "2022-12-01T00:00:00Z"
-doi:
+doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
