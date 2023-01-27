@@ -1,23 +1,23 @@
 ---
-title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches"
+title: "Past and future climate change effects on thermal regime and oxygen solubility of four peri-alpine lakes"
 
 authors:
-- Théo
+- Desgué-Itier, O; Jenny, J-P; Melo Vieira Soares, L; Sharaf, N; Anneville, O; Bouffard, D; Vinçon Leite, B; Chanudet, V; Danis, P-A; Domaizon, I; Mazure, T; Soulignac, F; Tran-Khac, V; Guillard, J
 
-date: "2022-12-01T00:00:00Z"
+date: "2022-06-03T00:00:00Z"
 doi: "https://doi.org/10.5194/egusphere-2022-260"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Anthropogenic land use changes and hydroclimate fluctuations are generally described as the main control factors of soil erosion on centennial to millennial time scales, but their relative contribution on erosion trends is barely quantified yet. While past erosion dynamics can be inferred from lake sediment records, improvements in land surface models now allow the quantification of soil erosion on a variety of spatial scales ranging from plot to regional or even global scales. However, application of model approaches to long timescales is still at its dawn, limiting quantification of past soil erosion, investigation of scenarios, interpolation of data spatially and temporally, or testing hypothesis. Here we show how coupling paleo-environmental data and spatially distributed models of soil loss constrained by land cover data might help to assess past soil erosion dynamics and to quantify soil loss exports. The methodology has been tested on six alpine lake catchments that cover large altitudinal gradients (from 420 to 2494 asl) over the Holocene period. Our results show that soil erosion dynamics in the Alps seems to be characterized by two main regimes: 1) a long-term (i.e. pluri-millennial) slow increase in soil erosion that we attribute to progressive land use change, and 2) ‘short’ term (i.e. decennial to centennial) erosion crisis associated with faster land uses changes. Our results suggest that reconstructing past soil erosion requires accurate land cover change reconstructions. Our results further suggest that deforestation and land opening may have amplified the effect of precipitations on soil erosion. Coupling model and paleolimnological approaches should hence open new avenues to assess in a more integrative way mass fluxes and stocks within lake catchments systems over long-term periods.
+abstract: Climate change modifies the thermal regime and the oxygen solubility of lakes globally, resulting in the alteration of ecosystem processes, lake habitats and concentrations of key parameters. The use of one-dimensional (1D) lake model for global scale studies has become the standard in lake research to evaluate the effects of climate change. However, such approach requires global scale forcing parameters which have several limitations that are barely discussed, such as the need of serious downscaling. Furthermore, projections of lakes' thermal regime are hardly ever confronted with long-term observations that extent for more than a few decades. These shortfalls limit the robustness of hindcast/ forecast simulations on decadal to centennial timescales. In this study, several 1D lake models' robustness was tested for long-term variations based on 63 years of limnological data collected by the French Observatory of LAkes (OLA). Here we evaluate the possibility to force mechanistic models by following the long-term evolution of shortwave radiation and air temperature while providing realistic seasonal trend for the other parameters for which local scale downscaling often lacks accuracy. Then, the effects of climate change on the thermal regime and oxygen solubility were analyzed in the four-largest French peri-Alpine lakes. Our results show that 1D lake models forced by air temperatures and short-wave radiations accurately predict variations in lake thermal regime over the last four to six decades, with RMSE <1.95 °C. During the last three decades, water temperatures have increased by 0.46 °C decade–1 (±0.02 °C) in the epilimnion and 0.33 °C decade–1 (±0.06 °C) in the hypolimnion. Concomitantly and due to thermal change, O2 solubility has decreased by -0.104 mg L–1 decade–1 (±0.005 mg L–1) and -0.096 mg L–1 decade–1 (±0.011 mg L–1) in the epilimnion and hypolimnion, respectively. Based on the ssp370 socio-economic pathway of the IPCC, perialpine lakes could face an increase of 3.80 °C (±0.20 °C) in the next 70 years, accompanied by a decline of 1.0 mg L–1 (±0.1 mg L–1) of O2 solubility. These results suggest important degradation in lake thermal and oxygen conditions and a loss of habitats for endemic species.
 
 tags:
 - Source Themes
