@@ -4,7 +4,7 @@ title: "Quantifying soil erosion during the Holocene by coupling land surface mo
 authors:
 - Mazure, T; Saulnier, G-M; Mazier, F; Serge, M-A; Messager, E; Arnaud, F; Jenny, J-P
 
-date: "2022-06-03T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: "https://doi.org/10.5194/egusphere-2022-260"
 
 # Publication type.
