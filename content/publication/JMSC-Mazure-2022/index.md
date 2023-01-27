@@ -1,5 +1,5 @@
 ---
-title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches 4èmes Journées De Modélisation Des Surfaces Continentales Grenoble France 6 - 7 October 2022"
+title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches 4èmes Journées De Modélisation Des Surfaces Continentales Grenoble France 6-7 October 2022"
 authors:
 - Mazure, T; Saulnier, G-M; Mazier, F; Serge, M-A; Messager, E; Arnaud, F; Jenny, J-P
 
