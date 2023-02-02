@@ -38,7 +38,7 @@ experience:
     location: Le Havre, France
     date_start: '2019-04-08'
     date_end: '2019-08-08'
-    description: Soil sealing and flood forecast modeling on Le Havre territory (Normandy, France) - Stéphane Chédeville (LHSM) and Nicolas Lecoq (CNRS)
+    description: Soil sealing and flood forecast modeling on Le Havre territory - Stéphane Chédeville (LHSM) and Nicolas Lecoq (CNRS M2C)
 
   - title: Intern
     company: CNEK
@@ -47,7 +47,7 @@ experience:
     location: Rouen, France
     date_start: '2018-04-01'
     date_end: '2018-06-01'
-    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Joël Rodet (CNEK) and Nicolas Lecoq (CNRS)
+    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk - Joël Rodet (CNEK) and Nicolas Lecoq (CNRS M2C)
 
 design:
   columns: '2'
