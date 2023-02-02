@@ -29,8 +29,8 @@ experience:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-13'
-    description: Erosion modeling and terrestrial fluxes forecast on the EDF HYDRO dams network - Cécile Martinet (EDF DTG)
-        
+    description: Erosion modeling and terrestrial fluxes forecast on the EDF HYDRO dam network - Cécile Martinet (EDF DTG)
+
   - title: Intern
     company: Le Havre Seine Métropole
     company_url: ''
@@ -38,8 +38,8 @@ experience:
     location: Le Havre, France
     date_start: '2019-04-08'
     date_end: '2019-08-08'
-    description: Soil sealing and flood forecast modeling on Le Havre territory (Normandy, France) - Stéphane Chédeville (LHSM) and Nicolas Lecoq (UMR M2C CNRS URN)
-            
+    description: Soil sealing and flood forecast modeling on Le Havre territory (Normandy, France) - Stéphane Chédeville (LHSM) and Nicolas Lecoq (CNRS)
+
   - title: Intern
     company: CNEK
     company_url: ''
@@ -47,7 +47,7 @@ experience:
     location: Rouen, France
     date_start: '2018-04-01'
     date_end: '2018-06-01'
-    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Joël Rodet (CNEK) and Nicolas Lecoq (UMR M2C CNRS URN)
+    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Joël Rodet (CNEK) and Nicolas Lecoq (CNRS)
 
 design:
   columns: '2'
