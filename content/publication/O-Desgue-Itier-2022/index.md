@@ -2,7 +2,7 @@
 title: "Past and future climate change effects on thermal regime and oxygen solubility of four peri-alpine lakes"
 
 authors:
-- Desgué-Itier, O; Melo Vieira Soares, L; Anneville, O; Bouffard, D; Chanudet, V; Danis, P-A; Domaizon, I; Guillard, J; Mazure, T; Sharaf, N; Soulignac, F; Tran-Khac, V; Vinçon-Leite, B; and Jenny, J-P;
+- Desgué-Itier, O; Melo Vieira Soares, L; Anneville, O; Bouffard, D; Chanudet, V; Danis, P-A; Domaizon, I; Guillard, J; Mazure, T; Sharaf, N; Soulignac, F; Tran-Khac, V; Vinçon-Leite, B; and Jenny, J-P
 
 date: "2023-02-01T00:00:00Z"
 doi: "https://doi.org/10.5194/hess-27-837-2023"
