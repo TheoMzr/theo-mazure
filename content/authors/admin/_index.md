@@ -20,9 +20,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/TheoMzr
-   - icon: orcid
-     icon_pack: ai
-     link: https://orcid.org/0009-0001-0098-2855
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0001-0098-2855
 organizations:
   - name: UMR 0042 CARRTEL INRAE USMB
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
