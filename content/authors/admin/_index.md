@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/TheoMzr
    - icon: orcid
-     icon_pack: fab
+     icon_pack: ai
      link: https://orcid.org/0009-0001-0098-2855
 organizations:
   - name: UMR 0042 CARRTEL INRAE USMB
