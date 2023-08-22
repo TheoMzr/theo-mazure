@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Researcher
+  - title: PhD Candidate
     company: INRAE
     company_url: ''
     company_logo:
-    location: Le Bourget du lac, France
+    location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
     date_end: ''
     description: /2-Long-term soil erosion and soil carbon dynamics around lake watersheds by coupling spatial models and paleo-environmental approaches - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
