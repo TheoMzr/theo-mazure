@@ -26,10 +26,10 @@ experience:
     company: INRAE
     company_url: ''
     company_logo:
-    location: Le Bourget-du-lac, France
+    location: Le Bourget du lac, France
     date_start: '2021-11-01'
     date_end: ''
-    description: Long-term soil erosion and soil carbon dynamics around lake watersheds by coupling spatial models and paleo-environmental approaches - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
+    description: /2-Long-term soil erosion and soil carbon dynamics around lake watersheds by coupling spatial models and paleo-environmental approaches - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
 
   - title: Intern
     company: EDF
