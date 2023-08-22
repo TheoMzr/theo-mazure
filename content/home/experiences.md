@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: PhD Candidate
+    company: INRAE
+    company_url: ''
+    company_logo:
+    location: Le Bourget-du-lac, France
+    date_start: '2021-11-01'
+    date_end: '2024-31-10'
+    description: Erosion modeling and terrestrial fluxes forecast on the EDF dam network (France) - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
+
   - title: Intern
     company: EDF
     company_url: ''
