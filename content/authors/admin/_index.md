@@ -6,7 +6,7 @@ interests:
   - Erosion dynamics
   - Soil carbon fluxes
   - GIS modeling
-  - Paleolimnology
+  - Paleoenvironment
 social:
   - icon: envelope
     icon_pack: far
