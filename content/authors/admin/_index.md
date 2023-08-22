@@ -40,6 +40,6 @@ education:
 superuser: true
 highlight_name: true
 ---
-PhD candidate in Earth & Environmental Sciences at the [CARRTEL laboratory](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE CARRTEL), [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (CNRS EDYTEM) and [Vincent Chanudet](https://www.researchgate.net/profile/Vincent-Chanudet) (EDF CIH).
+PhD candidate in Earth & Environmental Sciences at the [CARRTEL laboratory (UMR 0042 INRAE USMB)](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE CARRTEL), [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (CNRS EDYTEM) and [Vincent Chanudet](https://www.researchgate.net/profile/Vincent-Chanudet) (EDF CIH).
 
 My research project is to study long-term soil erosion and soil carbon dynamics around lake watersheds by coupling spatial models and paleo-environmental approaches.
