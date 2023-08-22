@@ -4,7 +4,7 @@ title: "Ce que l'érosion des sols en montagne peut nous apprendre sur le climat
 authors:
 - Mazure, T; Charef, Z
 
-date: "2023-07-017T00:00:00Z"
+date: "2023-07-17T00:00:00Z"
 doi: "
 
 # Publication type.
