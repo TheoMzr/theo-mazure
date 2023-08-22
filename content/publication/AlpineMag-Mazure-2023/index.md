@@ -5,7 +5,7 @@ authors:
 - Mazure, T; Charef, Z
 
 date: "2023-07-17T00:00:00Z"
-doi: "
+doi: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,6 +30,6 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''https://alpinemag.fr/sciences-erosion-sol-carbone-avenir/"
+url_source: 'https://alpinemag.fr/sciences-erosion-sol-carbone-avenir/'
 url_video: ''
 ---
