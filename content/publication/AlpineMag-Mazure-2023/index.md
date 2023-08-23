@@ -2,7 +2,7 @@
 title: "Ce que l'érosion des sols en montagne peut nous apprendre sur le climat"
 
 authors:
-- Mazure, T; and Charef, Z
+- Charef, Z; and Mazure, T
 
 date: "2023-07-17T00:00:00Z"
 doi: ''
