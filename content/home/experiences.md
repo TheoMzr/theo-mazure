@@ -56,7 +56,7 @@ experience:
     location: Rouen, France
     date_start: '2018-04-01'
     date_end: '2018-06-01'
-    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Joël Rodet (CNEK) $ Nicolas Lecoq (CNRS M2C)
+    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Joël Rodet (CNEK) & Nicolas Lecoq (CNRS M2C)
 
 design:
   columns: '2'
