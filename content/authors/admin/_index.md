@@ -24,7 +24,7 @@ social:
     icon_pack: ai
     link: https://orcid.org/0009-0001-0098-2855
 organizations:
-  - name: UMR 0042 CARRTEL INRAE USMB
+  - name: Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:

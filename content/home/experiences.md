@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: PhD Candidate
-    company: INRAE
+    company: Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE)
     company_url: ''
     company_logo:
     location: Le Bourget-du-lac, France
@@ -31,8 +31,8 @@ experience:
     date_end: ''
     description: Long-term soil erosion and soil carbon dynamics around lake watersheds by coupling spatial models and paleo-environmental approaches - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
 
-  - title: Intern
-    company: EDF
+  - title: Study engineer (Intern)
+    company: Électricité de France (EDF)
     company_url: ''
     company_logo:
     location: Grenoble, France
@@ -40,8 +40,8 @@ experience:
     date_end: '2021-08-13'
     description: Erosion modeling and terrestrial fluxes forecast on the EDF dam network (France) - Cécile Martinet (EDF DTG) & Matthieu Le Lay (EDF DTG)
 
-  - title: Intern
-    company: Le Havre Seine Métropole
+  - title: Study engineer (Intern)
+    company: Le Havre Seine Métropole (LHSM)
     company_url: ''
     company_logo:
     location: Le Havre, France
@@ -49,8 +49,8 @@ experience:
     date_end: '2019-08-08'
     description: Soil sealing and flood forecast modeling on the Le Havre territory (Normandy, France) - Stéphane Chédeville (LHSM) & Nicolas Lecoq (CNRS M2C)
 
-  - title: Intern
-    company: CNEK
+  - title: Research technician (Intern)
+    company: Centre Normand d'Étude du Karst (CNEK)
     company_url: ''
     company_logo:
     location: Rouen, France
