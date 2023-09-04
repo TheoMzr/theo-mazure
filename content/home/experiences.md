@@ -29,7 +29,7 @@ experience:
     location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
     date_end: ''
-    description: Long-term soil erosion and carbon exports to inland waters by coupling model and paleo-environmental approaches - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
+    description: Study long-term soil erosion and carbon exports to inland waters by coupling model and paleo-environmental approaches - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
 
   - title: Study engineer (Intern)
     company: Électricité de France (EDF)
