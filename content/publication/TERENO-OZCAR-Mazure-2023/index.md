@@ -4,7 +4,7 @@ title: "Coupling soil erosion model and lake sediment records reveals the import
 authors:
 - Mazure, T; Saulnier, G-M; Chanudet V; Bajard, M; Arnaud, F; Sabatier, P and Jenny, J-P
 
-date: "2023-09-028T00:00:00Z"
+date: "2023-09-28T00:00:00Z"
 doi: ""
 
 # Publication type.
