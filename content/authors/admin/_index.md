@@ -23,6 +23,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0001-0098-2855
+  - icon: hal
+    icon_pack: ai
+    link: https://cv.hal.science/theo-mazure
 organizations:
   - name: French National Institute for Agriculture, Food, and Environment (INRAE)
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
