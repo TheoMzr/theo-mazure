@@ -26,6 +26,9 @@ social:
   - icon: hal
     icon_pack: ai
     link: https://cv.hal.science/theo-mazure
+  - icon: scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=XxSXMW8AAAAJ&hl=fr
 organizations:
   - name: French National Institute for Agriculture, Food, and Environment (INRAE)
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
