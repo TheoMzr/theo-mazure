@@ -47,6 +47,6 @@ highlight_name: true
 ---
 PhD candidate in environmental modeling at the [Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE CARRTEL), [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (CNRS EDYTEM) and [Vincent Chanudet](https://www.researchgate.net/profile/Vincent-Chanudet) (EDF CIH).
 
-My research project is to study millennial soil erosion dynamics in the Alps by coupling numerical models and paleo-environmental data.
+My research project is to study long-term soil erosion dynamics by coupling numerical models and paleo-environmental data.
 
-Concerning my personal projects, I am a full-time member of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep).
+Concerning my personal projects, I am part of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep) as musician.
