@@ -3,7 +3,7 @@ title: "DEEP-C Consortium: Carbon sink or methane source–local to global scale
 
 
 authors:
-- Jenny J-P; Millet L; Lauerwald R; Colas F; Masclaux H; Prairie Y; Regnier P; A Ali A; Arnaud F; Carvalhais N; Chanudet C; Chapron E; Durand P; Domaizon I; Dambrine E; Dellinger M; Etienne D; Gaillardet J; Galop D; Gateuille D; Giguet-Covex C; Itier-Desgué O; Jezequel D; Lyautey E; Marquer L; Mazier F; Mazure T; Messager E; Poulenard J; Rius D; Sabatier P; Saulnier G-M; Simonneau A; Soares L; Tran-Khac V; Verneaux V; and Ciais P.
+- Jenny, J-P; Millet, L; Lauerwald, R; Colas, F; Masclaux, H; Prairie, Y; Regnier, P; A Ali, A; Arnaud, F; Carvalhais, N; Chanudet, C; Chapron, E; Durand, P; Domaizon, I; Dambrine, E; Dellinger, M; Etienne, D; Gaillardet, J; Galop, D; Gateuille, D; Giguet-Covex, C; Itier-Desgué, O; Jezequel, D; Lyautey, E; Marquer, L; Mazier, F; Mazure, T; Messager, E; Poulenard, J; Rius, D; Sabatier, P; Saulnier, G-M; Simonneau, A; Soares, L; Tran-Khac, V; Verneaux, V; and Ciais, P
 
 date: "2024-09-17T00:00:00Z"
 doi: "https://doi.org/10.3897/rio.10.e136661"
