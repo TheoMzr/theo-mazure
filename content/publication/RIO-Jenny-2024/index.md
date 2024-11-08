@@ -3,7 +3,7 @@ title: "DEEP-C Consortium: Carbon sink or methane source–local to global scale
 
 
 authors:
-- Jean-Philippe Jenny; Laurent Millet; Ronny Lauerwald; Fanny Colas; Hélène Masclaux; Yves Prairie; Pierre Regnier; Adam A Ali; Fabien Arnaud; Nuno Carvalhais; Vincent Chanudet; Emmanuel Chapron; Patrick Durand; Isabelle Domaizon; Etienne Dambrine; Mathieu Dellinger; David Etienne; Jérome Gaillardet; Didier Galop; David Gateuille; Charline Giguet-Covex; Olivia Itier-Desgué; Didier Jezequel; Emilie Lyautey; Laurent Marquer; Florence Mazier; Théo Mazure; Erwan Messager; Jérôme Poulenard; Damien Rius; Pierre Sabatier; Georges-Marie Saulnier; Anaëlle Simonneau; Laura Soares; Viet Tran-Khac; Valérie Verneaux; and Philippe Ciais.
+- Jenny J-P; Millet L; Lauerwald R; Colas F; Masclaux H; Prairie Y; Regnier P; A Ali A; Arnaud F; Carvalhais N; Chanudet C; Chapron E; Durand P; Domaizon I; Dambrine E; Dellinger M; Etienne D; Gaillardet J; Galop D; Gateuille D; Giguet-Covex C; Itier-Desgué O; Jezequel D; Lyautey E; Marquer L; Mazier F; Mazure T; Messager E; Poulenard J; Rius D; Sabatier P; Saulnier G-M; Simonneau A; Soares L; Tran-Khac V; Verneaux V; and Ciais P.
 
 date: "2024-09-17T00:00:00Z"
 doi: "https://doi.org/10.3897/rio.10.e136661"
@@ -25,7 +25,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'https://www.researchgate.net/publication/381169489_Half_of_the_soil_erosion_in_the_Alps_during_the_Holocene_is_explained_by_transient_erosion_crises_as_a_consequence_of_rapid_human_land_clearing'
+url_pdf: 'https://riojournal.com/article/136661/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
