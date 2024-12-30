@@ -50,4 +50,4 @@ PhD in geosciences at the [Centre alpin de recherche sur les réseaux trophiques
 
 My research project is to study long-term soil erosion dynamics and associated carbon exports by coupling numerical models and paleo-environmental data.
 
-Concerning my personal projects, I am part of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep) as musician (vocals, flute, mandolin).
+Concerning my personal projects, I am part of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep) as musician.
