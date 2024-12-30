@@ -4,6 +4,7 @@ role: PhD
 avatar_filename: ""
 interests:
   - Soil erosion
+  - Soil carbon
   - Paleo-environments
   - Spatial modeling
 social:
@@ -47,6 +48,6 @@ highlight_name: true
 ---
 PhD in geosciences at the [Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)](https://www6.lyon-grenoble.inrae.fr/carrtel).
 
-My research project is to study long-term soil erosion dynamics by coupling numerical models and paleo-environmental data.
+My research project is to study long-term soil erosion dynamics and associated carbon exports by coupling numerical models and paleo-environmental data.
 
-Concerning my personal projects, I am part of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep) as musician.
+Concerning my personal projects, I am part of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep) as musician (vocals, flute, mandolin).

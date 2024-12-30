@@ -28,9 +28,8 @@ experience:
     company_logo:
     location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
-    date_end: ''
-    #date_end: '2024-20-12'
-    description: Modeling long-term soil erosion transfers to inland waters by coupling numerical models and paleo-environmental data - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
+    date_end: '2024-12-20'
+    description: Quantifying soil erosion during the Holocene: contributions from the integration of modeling and lake sediment archives - Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
 
   - title: Study engineer (Intern)
     company: Électricité de France (EDF)
