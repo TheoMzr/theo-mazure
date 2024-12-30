@@ -1,6 +1,6 @@
 ---
 title: Théo MAZURE
-role: PhD Candidate
+role: PhD
 avatar_filename: ""
 interests:
   - Soil erosion
@@ -33,7 +33,7 @@ organizations:
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
-    - course: PhD in Environmental Modeling
+    - course: PhD in Geosciences
       institution: INRAE & Savoie Mont-Blanc University (France)
       year: 2024
     - course: MS in Earth & Environmental Sciences
@@ -45,7 +45,7 @@ education:
 superuser: true
 highlight_name: true
 ---
-PhD candidate in environmental modeling at the [Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)](https://www6.lyon-grenoble.inrae.fr/carrtel) under the supervision of [Jean-Philippe Jenny](https://www6.lyon-grenoble.inrae.fr/carrtel/Personnel-CVs/Jenny-Jean-Philippe) (INRAE CARRTEL), [Georges-Marie Saulnier](https://www.researchgate.net/profile/Georges-Marie-Saulnier) (CNRS EDYTEM) and [Vincent Chanudet](https://www.researchgate.net/profile/Vincent-Chanudet) (EDF CIH).
+PhD in geosciences at the [Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)](https://www6.lyon-grenoble.inrae.fr/carrtel).
 
 My research project is to study long-term soil erosion dynamics by coupling numerical models and paleo-environmental data.
 
