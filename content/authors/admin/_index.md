@@ -4,7 +4,7 @@ role: PhD
 avatar_filename: ""
 interests:
   - Soil erosion
-  - Soil carbon
+  - Soil carbon fluxes
   - Paleo-environments
   - Spatial modeling
 social:
