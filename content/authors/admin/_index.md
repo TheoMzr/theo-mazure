@@ -19,9 +19,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/TheoMzr
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0001-0098-2855
@@ -31,6 +28,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XxSXMW8AAAAJ&hl=fr
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/TheoMzr
 organizations:
   - name: Centre Alpin de Recherche sur les Réseaux Trophiques et les Écosystèmes Limniques (CARRTEL)
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
