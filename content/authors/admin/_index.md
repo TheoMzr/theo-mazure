@@ -32,7 +32,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XxSXMW8AAAAJ&hl=fr
 organizations:
-  - name: Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)
+  - name: Centre Alpin de Recherche sur les Réseaux Trophiques et les Écosystèmes Limniques (CARRTEL)
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
