@@ -7,6 +7,8 @@ interests:
   - Soil carbon fluxes
   - Paleo-environments
   - Spatial modeling
+  - Hydrogeology
+  - Karstology
 social:
   - icon: envelope
     icon_pack: far
@@ -34,13 +36,13 @@ organizations:
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
-    - course: PhD in Geosciences
-      institution: INRAE & Savoie Mont-Blanc University (France)
+    - course: Doctoral degree (PhD) in Geosciences
+      institution: Savoie Mont-Blanc University (France)
       year: 2024
-    - course: MS in Earth & Environmental Sciences
+    - course: Master's degree in Natural hazards management
       institution: Rouen Normandy University (France)
       year: 2021
-    - course: BS in Earth & Environmental Sciences
+    - course: Bachelor's degree in Earth & environmental sciences
       institution: Rouen Normandy University (France)
       year: 2018
 superuser: true
