@@ -16,10 +16,10 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: theo.mazure@inrae.fr
+  email: thmazure@gmail.com
   phone: +33 (0)6 49 92 00 53
   address:
-    street: Office 206, Building 8A, Campus Savoie Technolac
+    street: CARRTEL research unit
     postcode: 73376
     city: Le Bourget-du-lac Cedex, France
   coordinates:
