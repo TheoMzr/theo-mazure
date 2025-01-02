@@ -4,7 +4,7 @@ role: PhD
 avatar_filename: ""
 interests:
   - Soil erosion
-  - Soil carbon fluxes
+  - Carbon fluxes
   - Paleo-environments
   - Spatial modeling
   - Hydrogeology
@@ -39,10 +39,10 @@ education:
     - course: Doctoral degree (PhD) in Geosciences
       institution: Savoie Mont-Blanc University (France)
       year: 2024
-    - course: Master's degree in Natural hazards management
+    - course: Master's degree in Hydrogeosystems Management
       institution: Rouen Normandy University (France)
       year: 2021
-    - course: Bachelor's degree in Earth & environmental sciences
+    - course: Bachelor's degree in Earth & Environmental Sciences
       institution: Rouen Normandy University (France)
       year: 2018
 superuser: true
