@@ -36,20 +36,18 @@ organizations:
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
-    - course: Doctoral degree (PhD) in Geosciences
-      institution: Savoie Mont-Blanc University (France)
+    - course: Doctoral degree in Geosciences
+      institution: Université Savoie Mont-Blanc (France)
       year: 2024
     - course: Master's degree in Hydrogeosystems Management
-      institution: Rouen Normandy University (France)
+      institution: Université de Rouen-Normandie (France)
       year: 2021
     - course: Bachelor's degree in Earth & Environmental Sciences
-      institution: Rouen Normandy University (France)
+      institution: Université de Rouen-Normandie (France)
       year: 2018
 superuser: true
 highlight_name: true
 ---
-PhD in geosciences at the [Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)](https://www6.lyon-grenoble.inrae.fr/carrtel).
-
-My research project is to study long-term soil erosion dynamics and associated carbon exports by coupling numerical models and paleo-environmental data.
+PhD in geosciences, my research project is to study long-term soil erosion dynamics and associated carbon exports by coupling numerical models and paleo-environmental data.
 
 Concerning my personal projects, I am part of the French band [Veliocasses](https://veliocasses.bandcamp.com/album/seluanos-bona-ep) as musician.
