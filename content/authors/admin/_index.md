@@ -32,18 +32,18 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XxSXMW8AAAAJ&hl=fr
 organizations:
-  - name: French National Institute for Agriculture, Food, and Environment (INRAE)
+  - name: Centre alpin de recherche sur les réseaux trophiques des écosystèmes limniques (CARRTEL)
     url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
     - course: Doctoral degree in Geosciences
-      institution: Université Savoie Mont-Blanc (France)
+      institution: Université Savoie Mont Blanc (France)
       year: 2024
     - course: Master's degree in Hydrogeosystems Management
-      institution: Université de Rouen-Normandie (France)
+      institution: Université de Rouen Normandie (France)
       year: 2021
     - course: Bachelor's degree in Earth & Environmental Sciences
-      institution: Université de Rouen-Normandie (France)
+      institution: Universités de Rouen et Caen Normandie (France)
       year: 2018
 superuser: true
 highlight_name: true
