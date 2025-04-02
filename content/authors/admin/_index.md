@@ -18,7 +18,7 @@ social:
     link: https://www.researchgate.net/profile/Theo-Mazure
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/th%C3%A9o-mazure-604317154/
+    link: https://www.linkedin.com/in/théo-mazure-604317154/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0001-0098-2855
