@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: Projects
 subtitle: ''
 
 content:
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
- [Filtering publications](./publication/)
+ [Filtering](./publication/)
 {{% /callout %}}
