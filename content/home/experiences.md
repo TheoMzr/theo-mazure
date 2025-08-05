@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 01 2006
+date_format: 01/06
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
