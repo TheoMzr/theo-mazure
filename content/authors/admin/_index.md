@@ -34,8 +34,8 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/TheoMzr
 #organizations:
-#  - name: Centre Alpin de Recherche sur les Réseaux Trophiques et les Écosystèmes Limniques (CARRTEL)
-#    url: https://www6.lyon-grenoble.inrae.fr/carrtel
+  - name: Freelance
+    url:
 education:
   courses:
     - course: Doctoral degree in Geosciences
@@ -50,6 +50,6 @@ education:
 superuser: true
 highlight_name: true
 ---
-Consultant in environment and PhD in geosciences, I would be pleased to help you with your projects in data analysis, numerical modeling, GIS, courses or science popularization with my expertise in soil erosion, hydrology, hydrogeology and natural hazards.
+**Consultant in environment** holder of a **doctoral degree** in geosciences, I would be pleased to help you with your projects in **data analysis**, **numerical modeling**, **GIS**, **short-courses** or **science popularization** with my **expertise in geosciences** (soil erosion, hydrology, hydrogeology, natural hazards, etc).
 
-Please don't hesitate to contact me by email, phone or on Linkedin.
+Please don't hesitate to contact me by [email](/#contact), [phone](/#contact) or on [Linkedin](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
