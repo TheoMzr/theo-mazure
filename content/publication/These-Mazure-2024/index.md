@@ -2,7 +2,7 @@
 title: "Quantification de l'érosion des sols au cours de l'Holocène : apports de l'intégration de la modélisation et des archives sédimentaires lacustres"
 
 authors:
-- Thesis
+- Thèse
 
 date: "2024-12-20T00:00:00Z"
 doi: ''

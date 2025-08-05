@@ -3,7 +3,7 @@ title: "DEEP-C Consortium: Carbon sink or methane source–local to global scale
 
 
 authors:
-- Journal article
+- Article scientifique
 
 date: "2024-09-17T00:00:00Z"
 doi: "https://doi.org/10.3897/rio.10.e136661"

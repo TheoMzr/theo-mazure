@@ -1,13 +1,13 @@
 ---
 title: Théo Mazure, PhD
-role: Consultant in geosciences
+role: Consultant en géosciences
 avatar_filename: ""
 interests:
-  - Data analysis
-  - Numerical modeling
-  - Geographical Information Systems (GIS)
-  - Science popularization
-  - Short-courses
+  - Analyse de données
+  - Modélisation numérique
+  - Systèmes d'Information Géographique (SIG)
+  - Vulgarisation scientifique
+  - Formations
 social:
   - icon: envelope
     icon_pack: far
@@ -34,22 +34,22 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/TheoMzr
 organizations:
-  - name: Freelance
+  - name: Auto-entrepreneur
     url:
 education:
   courses:
-    - course: PhD in Geosciences
-      institution: Université Savoie Mont Blanc (France)
+    - course: Doctorat en géosciences
+      institution: Université Savoie Mont Blanc
       year: 2024
-    - course: Master in Hydrogeosystems Management
-      institution: Université de Rouen Normandie (France)
+    - course: Master en gestion des hydrogéosystèmes
+      institution: Université de Rouen Normandie
       year: 2021
-    - course: Bachelor in Earth & Environmental Sciences
-      institution: Universités de Rouen et Caen Normandie (France)
+    - course: Licence en sciences de la Terre et de l'environnement
+      institution: Universités de Rouen et Caen Normandie
       year: 2018
 superuser: true
 highlight_name: true
 ---
-**Consultant** and **PhD** in geosciences, I would be pleased to help you with your projects in **data analysis**, **numerical modeling**, **GIS**, **short-courses** or **science popularization** with my **expertise in geosciences** (soil erosion, hydrology, hydrogeology, natural hazards, etc).
+**Consultant** et **docteur** en géosciences, je serais heureux de pouvoir répondre à vos besoins en **analyse de données**, **modélisation numérique**, **SIG**, **formations** ou **vulgarisation scientique** avec mon **expertise en géosciences** (érosion des sols, hydrologie, hydrogéologie, risques naturels, etc).
 
-Please don't hesitate to contact me by [email](/#contact), [phone](/#contact) or on [Linkedin](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
+N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [Linkedin](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).

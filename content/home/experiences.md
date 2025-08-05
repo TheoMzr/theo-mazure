@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experiences
+title: Expériences
 subtitle:
 
 # Date format for experience
@@ -22,41 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Consultant in geosciences
-    company: Freelance
+  - title: Consultant en géosciences
+    company: Auto-entrepreneur
     company_url: ''
     company_logo:
     location: Grenoble, France
     date_start: '2025-01-01'
     date_end: ''
-    description: Data science, communication and expertise in geosciences.
+    description: Science des données, communication et expertise en géosciences.
 
-  - title: PhD candidate
+  - title: Doctorant
     company: Institut National de Recherche pour l'Agriculture, l'alimentation et l'Environnement (INRAE)
     company_url: ''
     company_logo:
     location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
     date_end: '2024-12-20'
-    description: Quantification of soil erosion in alpine environments using new methodologies integrating both modeling and lake sediment archives.
+    description: Quantification de l'érosion des sols en contexte alpin avec de nouvelles méthodes intégrant modélisation et archives sédimentaires lacustres.
 
-  - title: Study engineer
+  - title: Ingénieur d'étude
     company: Électricité de France (EDF)
     company_url: ''
     company_logo:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-13'
-    description: Erosion modeling and sediment fluxes forecast on the EDF dam network (France).
+    description: Modélisation de l'érosion et prévision des flux sédimentaires sur le réseau hydraulique EDF Alpes.
 
-  - title: Study engineer
+  - title: Ingénieur d'étude
     company: Le Havre Seine Métropole (LHSM)
     company_url: ''
     company_logo:
     location: Le Havre, France
     date_start: '2019-04-08'
     date_end: '2019-08-08'
-    description: Soil sealing and flood forecast modeling on the Le Havre territory (France).
+    description: Prévision du ruissellement et des crues au sein de l'agglomération du Havre.
 
 #  - title: Research technician
 #    company: Centre Normand d'Étude du Karst (CNEK)

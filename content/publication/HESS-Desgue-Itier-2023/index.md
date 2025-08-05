@@ -2,7 +2,7 @@
 title: "Past and future climate change effects on thermal regime and oxygen solubility of four peri-alpine lakes"
 
 authors:
-- Journal article
+- Article scientifique
 
 date: "2023-02-01T00:00:00Z"
 doi: "https://doi.org/10.5194/hess-27-837-2023"

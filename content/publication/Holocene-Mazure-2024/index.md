@@ -3,7 +3,7 @@ title: "Half of the soil erosion in the Alps during the Holocene is explained by
 
 
 authors:
-- Journal article
+- Article scientifique
 
 date: "2024-06-04T00:00:00Z"
 doi: "https://doi.org/10.1177/09596836241254485"

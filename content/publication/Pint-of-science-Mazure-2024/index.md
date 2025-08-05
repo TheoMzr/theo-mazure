@@ -2,7 +2,7 @@
 title: "L’impact des Alpins sur l’érosion des sols"
 
 authors:
-- Science popularization
+- Vulgarisation scientifique
 
 date: "2024-05-15T00:00:00Z"
 doi: ''

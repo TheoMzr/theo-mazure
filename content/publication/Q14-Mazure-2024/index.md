@@ -2,7 +2,7 @@
 title: "Quantifying the impacts of landscape opening on alpine soil erosion dynamics during the Holocene"
 
 authors:
-- Talk
+- Conférence
 
 date: "2024-02-27T00:00:00Z"
 doi: ""

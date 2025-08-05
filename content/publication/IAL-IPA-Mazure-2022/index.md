@@ -2,7 +2,7 @@
 title: "Quantifying soil erosion during the Holocene by coupling land surface modeling and paleoenvironmental approaches"
 
 authors:
-- Talk
+- Conférence
 
 date: "2022-12-01T00:00:00Z"
 doi: ""

@@ -2,7 +2,7 @@
 title: "Ce que l'érosion des sols en montagne peut nous apprendre sur le climat"
 
 authors:
-- Press article
+- Article de presse
 
 date: "2023-07-17T00:00:00Z"
 doi: ''
