@@ -18,13 +18,13 @@ content:
   # Contact details (edit or remove options as required)
   email: thmazure@gmail.com
   phone: +33 (0)6 49 92 00 53
-  address:
-    street: CARRTEL research unit
-    postcode: 73376
-    city: Le Bourget-du-lac Cedex, France
-  coordinates:
-    latitude: '45.641785'
-    longitude: '5.868029'
+#  address:
+#    street: CARRTEL research unit
+#    postcode: 73376
+#    city: Le Bourget-du-lac Cedex, France
+#  coordinates:
+#    latitude: '45.641785'
+#    longitude: '5.868029'
 
 design:
   columns: '2'

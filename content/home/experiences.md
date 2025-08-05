@@ -29,34 +29,34 @@ experience:
     location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
     date_end: '2024-12-20'
-    description: Quantifying soil erosion during the Holocene, contributions from the integration of modeling and lake sediment archives - Supervised by Jean-Philippe Jenny (INRAE CARRTEL), Georges-Marie Saulnier (CNRS EDYTEM) & Vincent Chanudet (EDF CIH)
+    description: Quantifying soil erosion during the Holocene, contributions from the integration of modeling and lake sediment archives.
 
-  - title: Study engineer (Intern)
+  - title: Study engineer
     company: Électricité de France (EDF)
     company_url: ''
     company_logo:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-13'
-    description: Erosion modeling and terrestrial fluxes forecast on the EDF dam network (France) - Supervised by Cécile Martinet (EDF DTG) & Matthieu Le Lay (EDF DTG)
+    description: Erosion modeling and terrestrial fluxes forecast on the EDF dam network (France).
 
-  - title: Study engineer (Intern)
+  - title: Study engineer
     company: Le Havre Seine Métropole (LHSM)
     company_url: ''
     company_logo:
     location: Le Havre, France
     date_start: '2019-04-08'
     date_end: '2019-08-08'
-    description: Soil sealing and flood forecast modeling on the Le Havre territory (Normandy, France) - Supervised by Stéphane Chédeville (LHSM) & Nicolas Lecoq (CNRS M2C)
+    description: Soil sealing and flood forecast modeling on the Le Havre territory (France).
 
-  - title: Research technician (Intern)
-    company: Centre Normand d'Étude du Karst (CNEK)
-    company_url: ''
-    company_logo:
-    location: Rouen, France
-    date_start: '2018-04-01'
-    date_end: '2018-06-01'
-    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France) - Supervised by Joël Rodet (CNEK) & Nicolas Lecoq (CNRS M2C)
+#  - title: Research technician
+#    company: Centre Normand d'Étude du Karst (CNEK)
+#    company_url: ''
+#    company_logo:
+#    location: Rouen, France
+#    date_start: '2018-04-01'
+#    date_end: '2018-06-01'
+#    description: Caracterisation of the geometric distribution of Liesegang's phenomena in chalk (Normandy, France).
 
 design:
   columns: '2'
