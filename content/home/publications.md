@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
- [Filtering](./project/)
+ [Filtering](./publication/)
 {{% /callout %}}
