@@ -14,13 +14,13 @@ social:
     link: /#contact
   - icon: phone
     icon_pack: fas
-    link: /#contact    
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Theo-Mazure
+    link: /#contact
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/théo-mazure-604317154/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Theo-Mazure
 #  - icon: orcid
 #    icon_pack: ai
 #    link: https://orcid.org/0009-0001-0098-2855
@@ -38,13 +38,13 @@ organizations:
     url:
 education:
   courses:
-    - course: Doctoral degree in Geosciences
+    - course: PhD in Geosciences
       institution: Université Savoie Mont Blanc (France)
       year: 2024
-    - course: Master's degree in Hydrogeosystems Management
+    - course: Master in Hydrogeosystems Management
       institution: Université de Rouen Normandie (France)
       year: 2021
-    - course: Bachelor's degree in Earth & Environmental Sciences
+    - course: Bachelor in Earth & Environmental Sciences
       institution: Universités de Rouen et Caen Normandie (France)
       year: 2018
 superuser: true
