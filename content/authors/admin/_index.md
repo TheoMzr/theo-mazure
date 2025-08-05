@@ -51,7 +51,7 @@ superuser: true
 highlight_name: true
 ---
 <p style="text-align:justify">
-**Consultant** et **docteur** en géosciences, je serais heureux de pouvoir répondre à vos besoins en **analyse de données**, **modélisation numérique**, **SIG**, **formations** ou **vulgarisation scientique** avec mon **expertise en géosciences** (érosion des sols, hydrologie, hydrogéologie, risques naturels, etc).
+Consultant et docteur en géosciences, je serais heureux de pouvoir répondre à vos besoins en **analyse de données, modélisation numérique, SIG, formations ou vulgarisation scientifique avec mon expertise en géosciences (érosion des sols, hydrologie, hydrogéologie, risques naturels, etc).
 </p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [Linkedin](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).

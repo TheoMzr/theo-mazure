@@ -17,6 +17,7 @@ publication_types: ["2"]
 publication: "*Alpine Mag*"
 publication_short: ""
 
+
 abstract: Comprendre les causes et les conséquences de l’érosion des sols en montagne permet de mieux appréhender l’avenir. Entre crises érosives, déforestation en grande pompe et impact de l’agriculture, le doctorant en modélisation environnementale Théo Mazure nous en dit davantage sur de tels événements naturels ou anthropiques.
 
 tags:
