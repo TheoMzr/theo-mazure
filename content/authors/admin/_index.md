@@ -2,17 +2,12 @@
 title: Théo Mazure, PhD
 role: Consultant in environment
 avatar_filename: ""
-skills:
+interests:
   - Data science
   - Numerical modeling
   - Geographical Information Systems (GIS)
   - Science popularization
   - Short-courses
-interests:
-  - Soil erosion
-  - Hydrology
-  - Hydrogeology
-  - Natural hazards
 social:
   - icon: envelope
     icon_pack: far
