@@ -33,7 +33,7 @@ social:
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/TheoMzr
-#organizations:
+organizations:
   - name: Freelance
     url:
 education:
