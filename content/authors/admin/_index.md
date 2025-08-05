@@ -12,8 +12,8 @@ social:
   - icon: envelope
     icon_pack: far
     link: /#contact
-  - icon: fax
-    icon_pack: far
+  - icon: phone
+    icon_pack: fas
     link: /#contact    
 #  - icon: researchgate
 #    icon_pack: ai
