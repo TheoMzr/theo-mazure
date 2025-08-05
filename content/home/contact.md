@@ -20,7 +20,7 @@ content:
   phone: +33 (0)6 49 92 00 53
   address:
     street:
-    postcode: 38000
+    postcode:
     city: Grenoble, France
   coordinates:
     latitude: '45.188529'
