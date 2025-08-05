@@ -38,7 +38,7 @@ experience:
     location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
     date_end: '2024-12-20'
-    description: Quantifying soil erosion during the Holocene, contributions from the integration of modeling and lake sediment archives.
+    description: Quantification of soil erosion in alpine environments using new methodologies integrating both modeling and lake sediment archives.
 
   - title: Study engineer
     company: Électricité de France (EDF)
@@ -47,7 +47,7 @@ experience:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-13'
-    description: Erosion modeling and terrestrial fluxes forecast on the EDF dam network (France).
+    description: Erosion modeling and sediment fluxes forecast on the EDF dam network (France).
 
   - title: Study engineer
     company: Le Havre Seine Métropole (LHSM)
