@@ -2,7 +2,7 @@
 title: Théo MAZURE, PhD
 role: Consulting
 avatar_filename: ""
-skills:
+interests:
   - Data science
   - SIG
   - Numerical modeling
