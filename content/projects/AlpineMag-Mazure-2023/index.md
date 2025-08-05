@@ -2,7 +2,7 @@
 title: "Ce que l'érosion des sols en montagne peut nous apprendre sur le climat"
 
 authors:
-- Charef, Z; and Mazure, T
+- Press article
 
 date: "2023-07-17T00:00:00Z"
 doi: ''
@@ -14,7 +14,7 @@ doi: ''
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Alpine Mag* (Press article)"
+publication: "*Alpine Mag*"
 publication_short: ""
 
 abstract: Comprendre les causes et les conséquences de l’érosion des sols en montagne permet de mieux appréhender l’avenir. Entre crises érosives, déforestation en grande pompe et impact de l’agriculture, le doctorant en modélisation environnementale Théo Mazure nous en dit davantage sur de tels événements naturels ou anthropiques.
