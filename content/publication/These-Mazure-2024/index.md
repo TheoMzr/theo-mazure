@@ -31,5 +31,5 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://theses.fr/s339259'
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=Pmmu6WFPrSI'
 ---

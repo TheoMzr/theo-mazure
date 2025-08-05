@@ -88,7 +88,7 @@
   translation: Poster
 
 - id: btn_source
-  translation: Source Document
+  translation: Lien
 
 - id: btn_copy
   translation: Copy
