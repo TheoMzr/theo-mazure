@@ -3,7 +3,7 @@ title: Théo Mazure, PhD
 role: Consultant in environment
 avatar_filename: ""
 interests:
-  - Data science
+  - Data analysis
   - Numerical modeling
   - Geographical Information Systems (GIS)
   - Science popularization
@@ -50,6 +50,6 @@ education:
 superuser: true
 highlight_name: true
 ---
-Consultant in environment holder of a PhD degree in geosciences, I would be pleased to help you with your projects in data science, numerical modeling, GIS, courses or science popularization with my expertise in soil erosion, hydrology, hydrogeology and natural hazards.
+Consultant in environment holder of a PhD degree in geosciences, I would be pleased to help you with your projects in data analysis, numerical modeling, GIS, courses or science popularization with my expertise in soil erosion, hydrology, hydrogeology and natural hazards.
 
 Please don't hesitate to contact me by email, phone or on Linkedin.
