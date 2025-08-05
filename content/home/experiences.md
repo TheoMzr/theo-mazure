@@ -22,7 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Candidate
+  - title: Consultant in environment
+    company: Freelance
+    company_url: ''
+    company_logo:
+    location: Grenoble, France
+    date_start: '2025-01-01'
+    date_end: ''
+    description: Data science, communication and expertise in geosciences.
+
+  - title: PhD candidate
     company: Institut National de Recherche pour l'Agriculture, l'alimentation et l'Environnement (INRAE)
     company_url: ''
     company_logo:
