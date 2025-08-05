@@ -1,6 +1,6 @@
 ---
-title: Théo MAZURE, PhD
-role: Consulting
+title: Mazure Consulting
+role: Théo MAZURE, PhD
 avatar_filename: ""
 interests:
   - Data science
@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: far
     link: /#contact
-  - icon: phone
+  - icon: fax
     icon_pack: far
     link: /#contact    
 #  - icon: researchgate
