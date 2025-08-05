@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - projects
     tag: ''
     category: ''
     publication_type: ''
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
- [Filtering](./publication/)
+ [Filtering](./projects/)
 {{% /callout %}}
