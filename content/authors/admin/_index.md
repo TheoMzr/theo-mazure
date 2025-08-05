@@ -2,7 +2,7 @@
 title: Théo Mazure, PhD
 role: Consultant en géosciences
 avatar_filename: ""
-compétences:
+interests:
   - Analyse de données
   - Modélisation numérique
   - Systèmes d'Information Géographique (SIG)
@@ -36,7 +36,7 @@ social:
 organizations:
   - name: Auto-entrepreneur
     url:
-cursus:
+education:
   courses:
     - course: Doctorat en géosciences
       institution: Université Savoie Mont Blanc
