@@ -23,8 +23,8 @@ content:
     postcode: 38000
     city: Grenoble, France
   coordinates:
-    latitude: '45.166672'
-    longitude: '5.71667'
+    latitude: '45.188529'
+    longitude: '5.724524'
 
 design:
   columns: '2'
