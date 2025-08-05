@@ -50,7 +50,7 @@ education:
 superuser: true
 highlight_name: true
 ---
-<p style="text-align:center">
+<p style="text-align:justify">
 **Consultant** et **docteur** en géosciences, je serais heureux de pouvoir répondre à vos besoins en **analyse de données**, **modélisation numérique**, **SIG**, **formations** ou **vulgarisation scientique** avec mon **expertise en géosciences** (érosion des sols, hydrologie, hydrogéologie, risques naturels, etc).
 </p>
 
