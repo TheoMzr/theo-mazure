@@ -15,9 +15,9 @@ social:
   - icon: phone
     icon_pack: fas
     link: /#contact    
-#  - icon: researchgate
-#    icon_pack: ai
-#    link: https://www.researchgate.net/profile/Theo-Mazure
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Theo-Mazure
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/théo-mazure-604317154/
