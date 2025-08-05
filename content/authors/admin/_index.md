@@ -39,13 +39,13 @@ organizations:
 education:
   courses:
     - course: Doctorat en géosciences
-      institution: Université Savoie Mont Blanc
+      institution: Université Savoie Mont Blanc, France
       year: 2024
     - course: Master en gestion des hydrogéosystèmes
-      institution: Université de Rouen Normandie
+      institution: Université de Rouen Normandie, France
       year: 2021
     - course: Licence en sciences de la Terre et de l'environnement
-      institution: Universités de Rouen et Caen Normandie
+      institution: Universités de Rouen et Caen Normandie, France
       year: 2018
 superuser: true
 highlight_name: true
