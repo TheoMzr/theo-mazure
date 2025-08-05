@@ -2,7 +2,7 @@
 title: Théo Mazure, PhD
 role: Consultant en géosciences
 avatar_filename: ""
-[interests]: #:
+interests:
   - Analyse de données
   - Modélisation numérique
   - Systèmes d'Information Géographique (SIG)
