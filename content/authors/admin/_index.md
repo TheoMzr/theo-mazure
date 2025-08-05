@@ -1,39 +1,41 @@
 ---
-title: Théo MAZURE
-role: PhD
+title: Théo MAZURE, PhD
+role: Consulting
 avatar_filename: ""
-interests:
-  - Soil erosion
-  - Carbon fluxes
-  - Paleo-environments
-  - Spatial modeling
-  - Hydrogeology
-  - Karstology
+skills:
+  - Data science
+  - SIG
+  - Numerical modeling
+  - Hydrology
+  - Natural hazards
 social:
   - icon: envelope
     icon_pack: far
     link: /#contact
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Theo-Mazure
+  - icon: phone
+    icon_pack: far
+    link: /#contact    
+#  - icon: researchgate
+#    icon_pack: ai
+#    link: https://www.researchgate.net/profile/Theo-Mazure
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/théo-mazure-604317154/
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0001-0098-2855
-  - icon: hal
-    icon_pack: ai
-    link: https://cv.hal.science/theo-mazure
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=XxSXMW8AAAAJ&hl=fr
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/TheoMzr
-organizations:
-  - name: Centre Alpin de Recherche sur les Réseaux Trophiques et les Écosystèmes Limniques (CARRTEL)
-    url: https://www6.lyon-grenoble.inrae.fr/carrtel
+#  - icon: orcid
+#    icon_pack: ai
+#    link: https://orcid.org/0009-0001-0098-2855
+#  - icon: hal
+#    icon_pack: ai
+#    link: https://cv.hal.science/theo-mazure
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=XxSXMW8AAAAJ&hl=fr
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/TheoMzr
+#organizations:
+#  - name: Centre Alpin de Recherche sur les Réseaux Trophiques et les Écosystèmes Limniques (CARRTEL)
+#    url: https://www6.lyon-grenoble.inrae.fr/carrtel
 education:
   courses:
     - course: Doctoral degree in Geosciences
