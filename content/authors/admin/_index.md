@@ -7,7 +7,8 @@ interests:
   - Modélisation numérique
   - Systèmes d'Information Géographique (SIG)
   - Vulgarisation scientifique
-  - Formations
+  - Formation
+  - Conseil
 social:
   - icon: envelope
     icon_pack: far
@@ -44,14 +45,16 @@ education:
     - course: Master en gestion des hydrogéosystèmes
       institution: Université de Rouen Normandie, France
       year: 2021
-    - course: Licence en sciences de la Terre et de l'environnement
-      institution: Universités de Rouen et Caen Normandie, France
-      year: 2018
+#    - course: Licence en sciences de la Terre et de l'environnement
+#      institution: Universités de Rouen et Caen Normandie, France
+#      year: 2018
 superuser: true
 highlight_name: true
 ---
 <p style="text-align:justify">
-Consultant et docteur en géosciences, je serais heureux de pouvoir répondre à vos besoins en analyse de données, modélisation numérique, SIG, formations ou vulgarisation scientifique grâce à mes expertises technique et scientifique dans le domaine des géosciences (érosion des sols, hydrologie, hydrogéologie, risques naturels, etc).
+Fasciné par notre planète depuis très jeune, ma curiosité m'a toujours poussé à comprendre comment les reliefs et l'environnement évoluent conjointement de manière naturelle et via l'action humaine au cours du temps.
+
+En tant que consultant et docteur en géosciences, je serais ravi de pouvoir répondre à vos besoins grâce à mes expertises technique (analyse de données, modélisation numérique, SIG), scientifique (hydrologie, hydrogéologie, géologie de surface), opérationelle (aménagement du territoire, prévention des risques naturels) et pédagogique (formation, vulgarisation scientifique).
 </p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
