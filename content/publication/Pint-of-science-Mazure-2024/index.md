@@ -17,7 +17,10 @@ publication_types: ["1"]
 publication: "*Festival Pint of Science*. Grenoble, France, 15 Mai 2024"
 publication_short: ""
 
-abstract: De berger à conducteur de pelle mécanique, les Alpins ont transformé et adapté leur environnement à leur besoin depuis des milliers d'années, favorisant l’érosion des sols. L’histoire de l’érosion des sols alpins nous conte l’une des principales menaces pour l’environnement et pour nos sociétés mais est également un bel exemple de résilience de l'Homme face à ses propres ambitions.
+abstract:
+<p style="text-align:justify">
+De berger à conducteur de pelle mécanique, les Alpins ont transformé et adapté leur environnement à leur besoin depuis des milliers d'années, favorisant l’érosion des sols. L’histoire de l’érosion des sols alpins nous conte l’une des principales menaces pour l’environnement et pour nos sociétés mais est également un bel exemple de résilience de l'Homme face à ses propres ambitions.
+<p>
 
 tags:
 - Source Themes
