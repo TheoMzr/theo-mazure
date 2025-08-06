@@ -53,7 +53,9 @@ highlight_name: true
 ---
 <p style="text-align:justify">
 Fasciné par notre planète depuis très jeune, ma curiosité m'a toujours poussé à comprendre comment les reliefs et l'environnement évoluent conjointement de manière naturelle et via l'action humaine au cours du temps.
+</p>
 
+<p style="text-align:justify">
 En tant que consultant et docteur en géosciences, je serais ravi de pouvoir répondre à vos besoins grâce à mes expertises technique (analyse de données, modélisation numérique, SIG), scientifique (hydrologie, hydrogéologie, géologie de surface), opérationnelle (aménagement du territoire, prévention des risques naturels) et pédagogique (formation, vulgarisation scientifique).
 </p>
 
