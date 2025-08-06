@@ -246,10 +246,10 @@
 # Search
 
 - id: search
-  translation: Rechercher
+  translation: Search
 
 - id: search_placeholder
-  translation: Search...
+  translation: Rechercher...
 
 - id: search_results
   translation: results found
