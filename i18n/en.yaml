@@ -195,10 +195,10 @@
   translation: Location
 
 - id: pub_paper_conference
-  translation: Conference paper
+  translation: Conférence
 
 - id: pub_article_journal
-  translation: Journal article
+  translation: Article scientifique
 
 - id: pub_article
   translation: Preprint
@@ -213,7 +213,7 @@
   translation: Book section
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Thèse
 
 - id: pub_patent
   translation: Patent
@@ -246,7 +246,7 @@
 # Search
 
 - id: search
-  translation: Search
+  translation: Rechercher
 
 - id: search_placeholder
   translation: Search...
