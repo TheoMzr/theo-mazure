@@ -52,7 +52,7 @@ superuser: true
 highlight_name: true
 ---
 <p style="text-align:justify">
-Fasciné par notre planète depuis très jeune, ma curiosité m'a toujours poussé à comprendre comment les reliefs et l'environnement évoluent conjointement de manière naturelle et via l'action humaine au cours du temps.
+Fasciné par notre planète depuis très jeune, ma curiosité me pousse à observer et comprendre comment les reliefs et l'environnement évoluent conjointement de manière naturelle et via l'action humaine au cours du temps.
 </p>
 
 <p style="text-align:justify">
