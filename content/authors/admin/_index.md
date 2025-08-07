@@ -56,15 +56,15 @@ Fasciné par les paysages de notre planète depuis tout jeune, ma curiosité me 
 </p>
 
 <p style="text-align:justify">
-Les activités humaines occasionnent de grands impacts sur notre environnement. Heureusement, les études environnementales permettent d'estimer ces impacts et de proposer des solutions pour atténuer et prévenir les dommages de nos activités sur l'environnement afin de conserver les nombreux bénéfices que celui-ci nous fournit en retour.
+Les activités humaines occasionnent de grands impacts sur notre environnement. Heureusement, les études d'évaluation environnementale permettent d'estimer ces impacts et de proposer des solutions pour atténuer et prévenir les dommages de nos activités sur l'environnement afin de conserver les nombreux bénéfices que celui-ci nous fournit en retour.
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences, je serais ravi de pouvoir contribuer à vos études environnementales en vous proposant un appui :
+En tant que consultant et docteur en géosciences, je serais ravi de pouvoir contribuer à vos évaluations environnementales en vous proposant un appui :
 </p>
 
-- **Technique** : Analyse de données, Modélisation numérique, SIG
-- **Opérationnel/ Conseil** : Expertise scientifique, Aménagement du territoire, Gestion des milieux naturels, Prévention des risques naturels
-- **Pédagogique** : Formations technique et théorique, Médiation scientifique
+- **Technique** : Analyse de données, Modélisation numérique, SIG.
+- **Opérationnel/ Conseil** : Expertise scientifique, Aménagement du territoire, Gestion des milieux naturels, Prévention des risques naturels.
+- **Pédagogique** : Formations technique et théorique, Médiation scientifique.
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
