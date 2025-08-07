@@ -56,7 +56,7 @@ Fasciné par les paysages de notre planète depuis tout jeune, ma curiosité me 
 </p>
 
 <p style="text-align:justify">
-Les activités humaines ont en effet de grands impacts sur notre environnement. Heureusement, les études environnementales permettent d'estimer ces impacts et de proposer des solutions pour atténuer et prévenir les dommages de nos activités sur l'environnement afin de conserver les nombreux bénéfices que celui-ci nous fournit en retour.
+Les activités humaines occasionnent de grands impacts sur notre environnement. Heureusement, les études environnementales permettent d'estimer ces impacts et de proposer des solutions pour atténuer et prévenir les dommages de nos activités sur l'environnement afin de conserver les nombreux bénéfices que celui-ci nous fournit en retour.
 </p>
 
 <p style="text-align:justify">
