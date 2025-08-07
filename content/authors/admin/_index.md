@@ -57,9 +57,9 @@ Fasciné par les paysages de notre planète depuis tout jeune, ma curiosité me 
 
 <p style="text-align:justify">
 En tant que consultant et docteur en géosciences, je serais ravi de pouvoir contribuer à vos études environnementales en vous proposant un appui :
-  - Technique (analyse de données, modélisation numérique, SIG)
-  - Opérationnel / Conseil (expertise scientifique, aménagement du territoire, gestion des milieux naturels, prévention des risques naturels)
-  - Pédagogique (formation technique et théorique, vulgarisation scientifique)
+- Technique (analyse de données, modélisation numérique, SIG)
+- Opérationnel / Conseil (expertise scientifique, aménagement du territoire, gestion des milieux naturels, prévention des risques naturels)
+- Pédagogique (formation technique et théorique, vulgarisation scientifique)
 </p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
