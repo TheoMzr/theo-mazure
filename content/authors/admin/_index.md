@@ -5,7 +5,7 @@ avatar_filename: ""
 interests:
   - Analyse de données
   - Modélisation numérique
-  - Systèmes d'Information Géographique (SIG)
+  - Géomatique (SIG)
   - Médiation scientifique
   - Formation
   - Conseil
@@ -63,7 +63,7 @@ Les activités humaines occasionnent de grands impacts sur notre environnement. 
 En tant que consultant et docteur en géosciences, je serais ravi de pouvoir contribuer à vos évaluations environnementales en vous proposant un appui :
 </p>
 
-- **Technique** : Analyse de données, Modélisation numérique, SIG.
+- **Technique** : Analyse de données, Modélisation numérique, Géomatique.
 - **Opérationnel / Conseil** : Expertise scientifique, Aménagement du territoire, Gestion des milieux naturels, Prévention des risques naturels.
 - **Pédagogique** : Formations technique et théorique, Médiation scientifique.
 
