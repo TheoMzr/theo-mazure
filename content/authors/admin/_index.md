@@ -60,7 +60,9 @@ En tant que consultant et docteur en géosciences, je serais ravi de pouvoir con
 </p>
 
 - **Technique** : analyse de données, modélisation numérique, SIG
+
 - **Opérationnel/ Conseil** : expertise scientifique, aménagement du territoire, gestion des milieux naturels, prévention des risques naturels
+
 - **Pédagogique** : formation technique et théorique, vulgarisation scientifique
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
