@@ -35,7 +35,7 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/TheoMzr
 organizations:
-  - name: Indépendant
+  - name: Freelance
     url:
 education:
   courses:
@@ -56,7 +56,10 @@ Fasciné par les paysages de notre planète depuis tout jeune, ma curiosité me 
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences, je serais ravi de pouvoir répondre à vos besoins grâce à mes expertises technique (analyse de données, modélisation numérique, SIG), scientifique (hydrologie, hydrogéologie, géologie de surface), opérationnelle (aménagement du territoire, prévention des risques naturels) et pédagogique (formation, vulgarisation scientifique).
+En tant que consultant et docteur en géosciences, je serais ravi de pouvoir contribuer à vos études environnementales en vous proposant un appui :
+  - Technique (analyse de données, modélisation numérique, SIG)
+  - Opérationnel / Conseil (expertise scientifique, aménagement du territoire, gestion des milieux naturels, prévention des risques naturels)
+  - Pédagogique (formation technique et théorique, vulgarisation scientifique)
 </p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
