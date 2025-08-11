@@ -52,11 +52,11 @@ superuser: true
 highlight_name: true
 ---
 <p style="text-align:justify">
-Fasciné par les paysages terrestres depuis tout jeune, ma curiosité me pousse à observer et comprendre comment les reliefs et l'environnement évoluent conjointement de manière naturelle et par l'action humaine au cours du temps.
+Depuis mon plus jeune âge, je suis captivé par la diversité des paysages terrestres. Cette fascination nourrit ma curiosité et m’incite à comprendre l’évolution conjointe des reliefs et de l’environnement au cours du temps, qu’elle soit le fruit de processus naturels ou de l’intervention humaine.
 </p>
 
 <p style="text-align:justify">
-Les activités humaines occasionnent de grands impacts sur l'environnement. Heureusement, les études d'évaluation environnementale permettent d'estimer ces impacts et de proposer des solutions visant à atténuer et à prévenir les dommages environnementaux de ces activités, et ainsi à favoriser la conservation des nombreux services écosystémiques que celui-ci fournit en retour aux sociétés humaines.
+Les activités humaines exercent des impacts considérables sur l'environnement. Afin de favoriser la préservation des nombreux services écosystémiques que celui-ci fournit aux sociétés humaines, les études d'évaluation environnementale permettent d'identifier et de quantifier ces impacts, tout en proposant des solutions pour les atténuer.
 </p>
 
 <p style="text-align:justify">
