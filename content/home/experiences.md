@@ -38,7 +38,7 @@ experience:
     location: Le Bourget-du-lac, France
     date_start: '2021-11-01'
     date_end: '2024-12-20'
-    description: Quantification de l'érosion des sols en contexte alpin grâce au développement de nouvelles méthodes intégrant modélisation et archives sédimentaires lacustres.
+    description: Quantification de l'érosion des sols en contexte alpin par l'intégration de la modélisation et des archives sédimentaires lacustres.
 
   - title: Ingénieur d'étude
     company: Électricité de France (EDF)
