@@ -23,7 +23,7 @@ date_format: 01/06
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Consultant en géosciences
-    company: Auto-entrepreneur
+    company: Indépendant
     company_url: ''
     company_logo:
     location: Grenoble, France

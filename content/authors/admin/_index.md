@@ -35,7 +35,7 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/TheoMzr
 organizations:
-  - name: Freelance
+  - name: Indépendant
     url:
 education:
   courses:
