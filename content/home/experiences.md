@@ -29,9 +29,9 @@ experience:
     location: Grenoble, France
     date_start: '2025-01-01'
     date_end: ''
-    description: Science des données, communication et expertise en géosciences.
+    description: Analyse de données, communication et conseil en géosciences.
 
-  - title: Charge de projet scientifique
+  - title: Chargé de projet scientifique
     company: Institut National de Recherche pour l'Agriculture, l'alimentation et l'Environnement (INRAE)
     company_url: ''
     company_logo:
