@@ -42,7 +42,7 @@ education:
     - course: Doctorat en géosciences
       institution: Université Savoie Mont Blanc, France
       year: 2024
-    - course: Master en gestion durable des hydrogéosystèmes
+    - course: Master en gestion de l'environnement
       institution: Université de Rouen Normandie, France
       year: 2021
 #    - course: Licence en sciences de la Terre et de l'environnement
