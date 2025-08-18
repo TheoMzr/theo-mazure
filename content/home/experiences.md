@@ -22,7 +22,7 @@ date_format: 01/06
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Consultant en géosciences
+  - title: Consultant en géosciences & environnement
     company: Indépendant
     company_url: ''
     company_logo:

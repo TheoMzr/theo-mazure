@@ -1,6 +1,6 @@
 ---
 title: Théo Mazure, PhD
-role: Consultant en géosciences
+role: Consultant en géosciences & environnement
 avatar_filename: ""
 interests:
   - Analyse de données
@@ -60,7 +60,7 @@ Les activités humaines exercent des impacts considérables sur l'environnement.
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences, je serais ravi de pouvoir contribuer à vos évaluations environnementales en vous proposant un appui :
+En tant que consultant et docteur en géosciences & environnement, je serais ravi de pouvoir contribuer à vos évaluations environnementales en vous proposant un appui :
 </p>
 
 - **Technique** : Analyse de données, Modélisation numérique, Géomatique.
