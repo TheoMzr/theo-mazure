@@ -2,7 +2,7 @@
 title: "Géologie et géomorphologie de la réserve biologique d'Engins"
 
 authors:
-- Conseil
+- Conseil scientifique
 
 date: "2025-08-20T00:00:00Z"
 doi: ''

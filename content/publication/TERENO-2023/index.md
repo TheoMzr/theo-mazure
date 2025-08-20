@@ -2,7 +2,7 @@
 title: "Coupling soil erosion model and lake sediment records reveals the importance of Alpine erosion crisis in total sediment exports during the Holocene"
 
 authors:
-- Conférence
+- Communication scientifique
 
 date: "2023-09-28T00:00:00Z"
 doi: ""
