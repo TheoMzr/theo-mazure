@@ -102,7 +102,7 @@
 # About widget
 
 - id: interests
-  translation: Compétences
+  translation: Domaines d'activités
 
 - id: education
   translation: Parcours
