@@ -7,7 +7,7 @@ interests:
   - Gestion intégrée des bassins versants
   - Conservation des sols agricoles
   - Restauration et gestion des milieux naturels
-  - Renaturation hydromorphologique et hydrosédimentaire des cours d'eau
+  - Renaturation hydro-morpho-sédimentaire des cours d'eau
 social:
   - icon: envelope
     icon_pack: far
