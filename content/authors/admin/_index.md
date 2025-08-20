@@ -7,6 +7,8 @@ interests:
   - Aménagement du territoire
   - Gestion des milieux naturels
   - Prévention et gestion des risques naturels
+  - Communication scientifique
+  - Formation
 social:
   - icon: envelope
     icon_pack: far
