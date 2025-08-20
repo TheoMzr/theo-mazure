@@ -18,8 +18,7 @@ publication: "*Université Savoie Mont Blanc*. Le Bourget-du-lac, France, 16 Nov
 publication_short: ""
 
 
-abstract: <p style="text-align:justify"> Formation dispensée au master 2 ECOMONT de l’Université
-Savoie Mont-Blanc. <p>
+abstract: <p style="text-align:justify"> Formation dispensée au master 2 ECOMONT de l’Université Savoie Mont-Blanc. <p>
 
 tags:
 - Source Themes
