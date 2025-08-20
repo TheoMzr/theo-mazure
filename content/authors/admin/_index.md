@@ -63,6 +63,6 @@ En tant que consultant et docteur en géosciences & environnement, je serais rav
 
 - **Technique** : Analyse de données, Modélisation numérique, Géomatique
 - **Opérationnel / Conseil** : Étude et expertise (état des lieux, diagnostic, conseil scientifique), Assistance à maîtrise d'ouvrage (étude d'impact, conception), Maitrise d’oeuvre (conception, avant-projet, projet)
-- **Pédagogique** : Formations technique et théorique, Médiation scientifique
+- **Pédagogique** : Formation technique et théorique, Médiation scientifique
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
