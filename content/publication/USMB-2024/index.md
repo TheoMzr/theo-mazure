@@ -14,7 +14,7 @@ doi: ''
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Université Savoie Mont Blanc*. Le Bourget-du-lac, France, 16 Novembre 2024"
+publication: "*Université Savoie Mont Blanc*. Le Bourget-du-lac, France, 15 Novembre 2024"
 publication_short: ""
 
 
