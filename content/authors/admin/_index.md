@@ -3,12 +3,10 @@ title: Théo Mazure, PhD
 role: Consultant en géosciences & environnement
 avatar_filename: ""
 interests:
-  - Analyse de données
-  - Modélisation numérique
-  - Géomatique (SIG)
-  - Médiation scientifique
-  - Formation
-  - Conseil
+  - Science des données
+  - Aménagement du territoire
+  - Gestion des milieux naturels
+  - Prévention et gestion des risques naturels
 social:
   - icon: envelope
     icon_pack: far
@@ -64,7 +62,7 @@ En tant que consultant et docteur en géosciences & environnement, je serais rav
 </p>
 
 - **Technique** : Analyse de données, Modélisation numérique, Géomatique
-- **Opérationnel / Conseil** :  Expertise scientifique, Étude de diagnostic, Assistance à maîtrise d'ouvrage (étude d'impact, aménagement du territoire, gestion des milieux naturels, prévention et gestion des risques naturels), Maitrise d’oeuvre (conception, avant-projet, projet)
+- **Opérationnel / Conseil** : Étude et expertise (état des lieux, diagnostic, conseil scientifique), Assistance à maîtrise d'ouvrage (étude d'impact, conception), Maitrise d’oeuvre (conception, avant-projet, projet)
 - **Pédagogique** : Formations technique et théorique, Médiation scientifique
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
