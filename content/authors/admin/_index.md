@@ -4,10 +4,10 @@ role: Consultant en géosciences & environnement
 avatar_filename: ""
 interests:
   - Analyse et prévention des risques naturels
-  - Gestion intégrée des bassins versants
   - Conservation des sols agricoles
-  - Restauration et gestion des milieux naturels
+  - Gestion intégrée des bassins versants
   - Renaturation hydro-morpho-sédimentaire des cours d'eau
+  - Préservation et restauration physique des milieux naturels
 social:
   - icon: envelope
     icon_pack: far
@@ -62,7 +62,7 @@ Les activités humaines exercent des impacts considérables sur l'environnement.
 En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un appui :
 </p>
 
-- **Technique** : Analyse de données, Modélisation numérique, Géomatique, Terrain
+- **Technique** : Analyse de données, Modélisation numérique, Géomatique, Terrain, Rédaction
 - **Opérationnel / Conseil** : Étude et Expertise (état des lieux, diagnostic, conseil scientifique), Assistance à maîtrise d'ouvrage (étude d'impact, conception et suivi de projet), Maîtrise d’oeuvre (conception, avant-projet, projet) et Assistance à maîtrise d’oeuvre (sous-traitance)
 - **Pédagogique** : Formation technique et théorique, Médiation scientifique
 
