@@ -3,7 +3,7 @@ title: Théo Mazure, PhD
 role: Consultant en géosciences & environnement
 avatar_filename: ""
 interests:
-  - Prévention et gestion des risques naturels
+  - Analyse et prévention des risques naturels
   - Gestion intégrée des bassins versants
   - Conservation des sols agricoles
   - Restauration et gestion des milieux naturels
@@ -59,7 +59,7 @@ Les activités humaines exercent des impacts considérables sur l'environnement.
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences & environnement, je serais ravi de pouvoir contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un appui :
+En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un appui :
 </p>
 
 - **Technique** : Analyse de données, Modélisation numérique, Géomatique, Terrain
