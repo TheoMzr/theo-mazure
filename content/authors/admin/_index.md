@@ -73,7 +73,7 @@ Mes prestations s’articulent autour de quatre axes complémentaires :
 - **Pédagogique** : Formation technique et théorique, Communication et Médiation scientifique (🇫🇷 / 🇬🇧)
 
 <p style="text-align:justify">
-En tant qu’indépendant, je vous offre une souplesse d’intervention, des délais optimisés et une implication directe sur chaque projet - une formule agile et réactive qui s'adapte à vos besoins.
+En tant qu’indépendant, je vous offre une souplesse d’intervention, des délais optimisés et une implication directe sur chaque projet - une formule agile, réactive et efficace qui s'adapte à vos besoins.
 </p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
