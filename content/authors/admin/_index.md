@@ -6,6 +6,7 @@ interests:
   - Analyse et prévention des risques naturels
   - Conservation des sols agricoles
   - Gestion intégrée des bassins versants
+  - Gestion de la ressource en eau (surface et souterraine)
   - Renaturation hydro-morpho-sédimentaire des cours d'eau
   - Restauration physique et valorisation des milieux naturels
 social:
