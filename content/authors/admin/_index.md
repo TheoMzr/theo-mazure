@@ -68,7 +68,7 @@ Mes prestations s’articulent autour de quatre axes complémentaires :
 </p>
 
 - **Technique** : Analyse de données, Géomatique, Modélisation numérique, Relevés de terrain
-- **Conseil** : Études (état des lieux, diagnostic, étude d'impact, cartographie des aléas), Expertise scientifique
+- **Conseil** : Études (état des lieux, diagnostic, étude d'impacts, cartographie des aléas), Expertise scientifique
 - **Opérationnel** : Assistance à maîtrise d'ouvrage (conception et suivi de projet), Maîtrise d’oeuvre (conception, avant-projet, projet), Assistance à maîtrise d’oeuvre (sous-traitance)
 - **Pédagogique** : Formation technique et théorique, Communication et Médiation scientifique (🇫🇷 / 🇬🇧)
 
