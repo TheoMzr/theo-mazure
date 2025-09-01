@@ -47,7 +47,7 @@ experience:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-13'
-    description: Modélisation de l'érosion et prévision des flux sédimentaires sur le réseau hydraulique EDF Alpes.
+    description: Modélisation de l'érosion et prévision des flux hydro-sédimentaires sur le réseau hydro-électrique EDF Alpes.
 
   - title: Ingénieur d'étude
     company: Le Havre Seine Métropole (LHSM)
@@ -56,7 +56,7 @@ experience:
     location: Le Havre, France
     date_start: '2019-04-08'
     date_end: '2019-08-08'
-    description: Prévision du ruissellement et des crues au sein de l'agglomération du Havre.
+    description: Prévision du ruissellement et des crues sur le territoire de l'agglomération du Havre.
 
 #  - title: Research technician
 #    company: Centre Normand d'Étude du Karst (CNEK)
