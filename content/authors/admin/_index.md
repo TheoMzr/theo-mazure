@@ -62,9 +62,9 @@ Les activités humaines exercent des impacts considérables sur l'environnement.
 En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un appui :
 </p>
 
-- **Technique** : Analyse de données, Géomatique, Modélisation numérique, Terrain, Rédaction (🇫🇷 / 🇬🇧)
-- **Conseil** : Études (état des lieux, diagnostic), Expertise scientifique
-- **Opérationnel** : Assistance à maîtrise d'ouvrage (études d'impact, cartes d'aléa, conception et suivi de projet), Maîtrise d’oeuvre (conception, avant-projet, projet), Assistance à maîtrise d’oeuvre (sous-traitance)
+- **Technique** : Analyse de données, Géomatique, Modélisation numérique, Relevés de terrain
+- **Conseil** : Études (état des lieux, diagnostic, étude d'impact, carte d'aléa), Expertise scientifique
+- **Opérationnel** : Assistance à maîtrise d'ouvrage (conception et suivi de projet), Maîtrise d’oeuvre (conception, avant-projet, projet), Assistance à maîtrise d’oeuvre (sous-traitance)
 - **Pédagogique** : Formation technique et théorique, Communication et Médiation scientifique (🇫🇷 / 🇬🇧)
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
