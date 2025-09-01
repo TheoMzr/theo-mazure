@@ -102,7 +102,7 @@
 # About widget
 
 - id: interests
-  translation: Domaines d'activités
+  translation: Domaines d'expertise
 
 - id: education
   translation: Diplômes
