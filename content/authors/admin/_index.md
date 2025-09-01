@@ -9,6 +9,7 @@ interests:
   - Gestion de la ressource en eau (surface et souterraine)
   - Renaturation hydro-morpho-sédimentaire des cours d'eau
   - Restauration physique et valorisation des milieux naturels
+  - Géosciences de l’environnement (géomorphologie et géologie de surface, hydrologie et hydrogéologie, interactions Homme / environnement)
 social:
   - icon: envelope
     icon_pack: far
