@@ -9,7 +9,6 @@ interests:
   - Gestion de la ressource en eau (de surface et souterraine)
   - Renaturation hydro-morpho-sédimentaire des cours d'eau
   - Restauration physique et valorisation des milieux naturels
-  - Géosciences de l’environnement (géomorphologie et géologie de surface, hydrologie et hydrogéologie, interactions Homme / environnement)
 social:
   - icon: envelope
     icon_pack: far
@@ -61,12 +60,20 @@ Les activités humaines exercent des impacts considérables sur l'environnement.
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un appui :
+En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un accompagnement personnalisé alliant expertise scientifique et expérience opérationnelle, afin de transformer des enjeux complexes en solutions concrètes.
+</p>
+
+<p style="text-align:justify">
+Mes prestations s’articulent autour de quatre volets complémentaires :
 </p>
 
 - **Technique** : Analyse de données, Géomatique, Modélisation numérique, Relevés de terrain
 - **Conseil** : Études (état des lieux, diagnostic, étude d'impact, carte d'aléa), Expertise scientifique
 - **Opérationnel** : Assistance à maîtrise d'ouvrage (conception et suivi de projet), Maîtrise d’oeuvre (conception, avant-projet, projet), Assistance à maîtrise d’oeuvre (sous-traitance)
 - **Pédagogique** : Formation technique et théorique, Communication et Médiation scientifique (🇫🇷 / 🇬🇧)
+
+<p style="text-align:justify">
+En tant qu’indépendant, je vous offre une souplesse d’intervention, des délais optimisés et une implication directe sur chaque projet — une alternative agile et réactive aux structures plus lourdes.
+</p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
