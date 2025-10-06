@@ -76,4 +76,4 @@ Mes prestations s’articulent autour de quatre axes complémentaires :
 En tant qu’indépendant, je vous offre une souplesse d’intervention, des délais optimisés et une implication directe sur chaque projet : une formule agile, réactive et efficace qui s'adapte à vos besoins.
 </p>
 
-N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-mzr-604317154/).
+N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/théo-mazure-604317154/).
