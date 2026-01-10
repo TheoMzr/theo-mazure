@@ -40,7 +40,7 @@ experience:
     date_end: '2024-12-20'
     description: Quantification de l'érosion des sols en contexte alpin par l'intégration de la modélisation et des archives sédimentaires lacustres.
 
-  - title: Ingénieur d'étude
+  - title: Ingénieur en modélisation environnementale
     company: Électricité de France (EDF)
     company_url: ''
     company_logo:
@@ -49,7 +49,7 @@ experience:
     date_end: '2021-08-13'
     description: Prévision des flux hydro-sédimentaires et modélisation de l'érosion des sols sur le réseau hydro-électrique EDF Alpes.
 
-  - title: Ingénieur d'étude
+  - title: Chargé d'étude
     company: Le Havre Seine Métropole (LHSM)
     company_url: ''
     company_logo:
