@@ -52,7 +52,7 @@ superuser: true
 highlight_name: true
 ---
 <p style="text-align:justify">
-Depuis mon plus jeune âge, je suis captivé par la diversité des paysages terrestres. Cette fascination nourrit ma curiosité et m’incite à comprendre l’évolution de notre l’environnement au cours du temps, qu’elle soit le fruit de processus naturels ou de l’intervention humaine.
+Depuis mon plus jeune âge, je suis captivé par la diversité des paysages terrestres. Cette fascination nourrit ma curiosité et m’incite à comprendre l’évolution de notre l’environnement au cours du temps, qu’elle soit le fruit de processus naturels et/ou de l’intervention humaine.
 </p>
 
 <p style="text-align:justify">
