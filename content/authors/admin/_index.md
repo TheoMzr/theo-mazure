@@ -52,15 +52,15 @@ superuser: true
 highlight_name: true
 ---
 <p style="text-align:justify">
-Depuis mon plus jeune âge, je suis captivé par la diversité des paysages terrestres. Cette fascination nourrit ma curiosité et m’incite à comprendre l’évolution conjointe des reliefs et de l’environnement au cours du temps, qu’elle soit le fruit de processus naturels ou de l’intervention humaine.
+Depuis mon plus jeune âge, je suis captivé par la diversité des paysages terrestres. Cette fascination nourrit ma curiosité et m’incite à comprendre l’évolution de notre l’environnement au cours du temps, qu’elle soit le fruit de processus naturels et/ou de l’intervention humaine.
 </p>
 
 <p style="text-align:justify">
-Les activités humaines exercent des impacts considérables sur l'environnement. Afin de favoriser la préservation des nombreux services écosystémiques que celui-ci fournit aux sociétés humaines, les études d'évaluation environnementale permettent d'identifier et de quantifier ces impacts, tout en proposant des solutions pour les atténuer.
+Les activités humaines exercent des impacts considérables sur l'environnement. C'est pourquoi j'ai à coeur d'identifier ces impacts, de les quantifier, et de proposer des solutions pour les atténuer afin de concilier usages humains et préservation des milieux naturels sur le long terme.
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à vos études d'évaluation environnementale et à la réalisation des projets qui en découlent en vous proposant un accompagnement personnalisé, alliant expertise scientifique et expérience opérationnelle, afin de transformer des enjeux complexes en solutions concrètes.
+En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à la réalisation de vos projets en vous proposant un accompagnement personnalisé, alliant expertise scientifique et expérience opérationnelle, afin de transformer la complexité de vos enjeux en solutions concrètes.
 </p>
 
 <p style="text-align:justify">
@@ -69,11 +69,11 @@ Mes prestations s’articulent autour de quatre axes complémentaires :
 
 - **Technique** : Analyse de données, Géomatique, Modélisation numérique, Relevés de terrain
 - **Conseil** : Études (état des lieux, diagnostic, impacts, cartographie des aléas), Expertise scientifique
-- **Opérationnel** : Assistance à maîtrise d'ouvrage, Assistance à maîtrise d’oeuvre
-- **Pédagogique** : Formation technique et théorique, Communication et Médiation scientifique (🇫🇷 / 🇬🇧)
+- **Gestion de projet** : Assistance à maîtrise d'ouvrage, Assistance à maîtrise d’oeuvre
+- **Communication** : Formation technique et théorique, Médiation scientifique (🇫🇷 / 🇬🇧)
 
 <p style="text-align:justify">
-En tant qu’indépendant, je vous offre une souplesse d’intervention, des délais optimisés et une implication directe sur chaque projet : une formule agile, réactive et efficace qui s'adapte à vos besoins.
+En tant qu’indépendant, je m'adapte à vos besoin en vous offrant une souplesse d’intervention, des délais optimisés, et une implication directe sur chaque projet.
 </p>
 
 N'hésitez pas à me contacter par [mail](/#contact), [téléphone](/#contact) ou sur [LinkedIn](https://www.linkedin.com/in/théo-mazure-604317154/).
