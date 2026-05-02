@@ -3,7 +3,7 @@ title: Théo Mazure, PhD
 role: Consultant en géosciences & environnement
 avatar_filename: ""
 interests:
-  - Analyse et prévention des risques naturels
+  - Analyse et anticipation des risques naturels
   - Conservation des sols agricoles
   - Gestion intégrée des bassins versants
   - Gestion de la ressource en eau (de surface et souterraine)
