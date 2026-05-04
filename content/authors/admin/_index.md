@@ -60,7 +60,7 @@ Les activités humaines exercent des impacts considérables sur l'environnement.
 </p>
 
 <p style="text-align:justify">
-En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à la réalisation de vos projets en vous proposant un accompagnement personnalisé, alliant expertise scientifique et expérience opérationnelle, afin de transformer la complexité de vos enjeux en solutions concrètes.
+En tant que consultant et docteur en géosciences & environnement, je serais ravi de contribuer à la réalisation de vos projets en vous proposant un accompagnement personnalisé, alliant expertise scientifique et expérience opérationnelle, pour transformer la complexité de vos enjeux en solutions concrètes.
 </p>
 
 <p style="text-align:justify">
