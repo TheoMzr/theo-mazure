@@ -1,5 +1,5 @@
 ---
-title: Théo Mazure, PhD
+title: Théo Mazure
 role: Consultant en géosciences & environnement
 avatar_filename: ""
 interests:
